@@ -38,7 +38,7 @@ npm install
 Локальный сервер разработки:
 
 ```bash
-npm run dev
+npm run 
 ```
 
 Сборка проекта:
