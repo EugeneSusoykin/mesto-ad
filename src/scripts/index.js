@@ -106,7 +106,8 @@ const handleInfoClick = (cardId) => {
           "Дата создания:",
           formatDate(new Date(cardData.createdAt))
         ),
-        createInfoDefinition("Владелец:", cardData.owner.name)
+        createInfoDefinition("Владелец:", cardData.owner.name),
+        createInfoDefinition("Количество лайков:", cardData.likes.length)
       );
 
       infoUsersList.replaceChildren(
