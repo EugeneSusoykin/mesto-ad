@@ -4,7 +4,7 @@
 
 ## Опубликованный проект 
 
-🔗 [Открыть на GitHub Pages](https://eugenesusoykin.github.io/mesto-ad/)
+🔗 [Открыть на GitHub Pages](https://USERNAME.github.io/REPO_NAME/)
 
 > Не забудьте подставить свой логин и название репозитория.
 
